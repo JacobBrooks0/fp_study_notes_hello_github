@@ -76,19 +76,6 @@
       ]
     },
     {
-      "name": "Daniel Ogunsanya",
-      "github": "danteoguns11",
-      "materials": [
-        {
-          "type": "cv"
-        },
-        {
-          "type": "video",
-          "url": "HzjUCR99L4c"
-        }
-      ]
-    },
-    {
       "name": "Chey Brown",
       "github": "Chey-DB",
       "materials": [
@@ -255,7 +242,6 @@
         "type": "video",
         "url": "nZ_GjUVJ-s8"
       }
-       
       ]
     },
     {
@@ -290,6 +276,10 @@
       "materials": [
         {
           "type": "cv"
+        }, 
+        {
+          "type": "video",
+          "url": "DPTTB7k8IUM"
         }
       ]
     },
@@ -312,19 +302,10 @@
       "materials": [
         {
           "type": "cv"
-        }
-      ]
-    },
-    {
-      "name": "Muhammad Yaaseen Rossan",
-      "github": "yrossan",
-      "materials": [
-        {
-          "type": "cv"
         },
         {
           "type": "video",
-          "url": "dcKwzn5bSks"
+          "url": "X9YqG2FO6bU"
         }
       ]
     },
